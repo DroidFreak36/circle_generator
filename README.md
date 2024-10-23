@@ -1,4 +1,4 @@
-# circle_generator
+# Python Circle Generator
 Creates circles out of squares with many options.
 
  * Can choose between even (2x2 pixel) or odd (1 pixel) center.
